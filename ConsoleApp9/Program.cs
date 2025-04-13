@@ -13,7 +13,7 @@
 
 			Console.WriteLine();
 
-			//Task 2
+			//Task 4
 			SingleLinkedList<int> singleList = new SingleLinkedList<int>();
 			singleList.Add(1);
 			singleList.Add(2);
@@ -24,7 +24,7 @@
 
 			Console.WriteLine();
 
-			//Task3
+			//Task 5
 			DoubleLinkedList<int> doubleList = new DoubleLinkedList<int>();
 			doubleList.Add(1);
 			doubleList.Add(2);
